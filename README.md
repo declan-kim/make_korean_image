@@ -1,1 +1,1 @@
-# make_korean_image
+# make_korean_char_image
